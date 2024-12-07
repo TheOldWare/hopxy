@@ -1,0 +1,52 @@
+body{
+  background-image: url(img/gif-background.gif);
+}
+
+.titulo1{
+  color:chartreuse;
+  font-size: 70px;
+  border-style: double;
+  border-color: green;
+  padding: 10px;
+  letter-spacing: 15px;
+  text-align: center;
+}
+
+.borda1{
+  border-style: dotted;
+  border-color: green;
+}
+
+.detalhes{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.jogos1{
+  color: lightgreen;
+  font-size: 30px;
+}
+
+.texto1{
+  color: rgb(58, 160, 58);
+  font-size: 45px;
+}
+
+.link{
+  font-size: 40px;
+  color: red;
+}
+
+.br{
+  margin-bottom: 10%;
+}
+
+.brlink{
+  margin-bottom: 5%;
+}
