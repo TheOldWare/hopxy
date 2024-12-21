@@ -1,0 +1,1 @@
+console.log('obrigado por ler');

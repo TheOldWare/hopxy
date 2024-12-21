@@ -3,6 +3,7 @@ body{
 }
 
 .titulo1{
+  text-shadow: 7px 7px 0 green;
   color:chartreuse;
   font-size: 70px;
   border-style: double;
@@ -10,6 +11,10 @@ body{
   padding: 10px;
   letter-spacing: 15px;
   text-align: center;
+  display: inline-block;
+  position: relative;
+  left: 27%;
+  letter-spacing: 50px;
 }
 
 .borda1{
@@ -17,7 +22,7 @@ body{
   border-color: green;
 }
 
-.detalhes{
+.bettlfield1942{
   font-size: 50px;
   color: green;
   background-color: #404040AB;
@@ -28,9 +33,26 @@ body{
   cursor: pointer;
 }
 
-.jogos1{
-  color: lightgreen;
-  font-size: 30px;
+.gtasanandreas{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.codmw4{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
 }
 
 .texto1{
