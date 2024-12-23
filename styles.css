@@ -13,8 +13,8 @@ body{
   text-align: center;
   display: inline-block;
   position: relative;
-  left: 27%;
-  letter-spacing: 50px;
+  left: 26%;
+  letter-spacing: 60px;
 }
 
 .borda1{
@@ -85,13 +85,16 @@ body{
 }
 
 .canal{
-  width: 35px;
-  height: 35px;
-  margin-left: 95%;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 94%;
 }
 
 .twitch{
-  width: 35px;
-  height: 35px;
-  margin-left: 95%;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 94%;
+  top: 6%;
 }
