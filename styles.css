@@ -66,6 +66,17 @@ body{
   cursor: pointer;
 }
 
+.farcry3{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
 .postal2{
   font-size: 50px;
   color: green;
@@ -120,3 +131,10 @@ body{
   left: 94%;
   top: 6%;
 }
+
+.farcry3tutorial{
+  width: 360px;
+  border-style: double;
+  border-color: rgb(140, 0, 255);
+}
+
