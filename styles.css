@@ -66,6 +66,28 @@ body{
   cursor: pointer;
 }
 
+.postal2{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.halo1{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
 .texto1{
   color: rgb(58, 160, 58);
   font-size: 45px;
