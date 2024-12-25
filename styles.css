@@ -144,8 +144,13 @@ body{
 }
 
 .bin02{
-  width: 630px;
+  width: 500px;
   border-style: double;
   border-color: rgb(140, 0, 255);
 }
 
+.bin41{
+  width: 500px;
+  border-style: double;
+  border-color: rgb(140, 0, 255);
+}
