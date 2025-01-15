@@ -9,7 +9,7 @@ body{
   border-style: double;
   border-color: green;
   padding: 10px;
-  letter-spacing: 15px;
+  letter-spacing: 5px;
   text-align: center;
   display: inline-block;
   position: relative;
@@ -155,6 +155,83 @@ body{
 }
 
 .doom12{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.garrysmod{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.battlefield3{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.justcause2{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.theflorest{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.undertales{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.cuphead{
+  font-size: 50px;
+  color: green;
+  background-color: #404040AB;
+  border-style:outset;
+  border-color: rgba(30, 130, 76);
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.needforspeedmw{
   font-size: 50px;
   color: green;
   background-color: #404040AB;
