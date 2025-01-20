@@ -5,17 +5,17 @@ body{
 .titulo1{
   text-shadow: 7px 7px 0 green;
   color:chartreuse;
-  font-size: 70px;
+  font-size: 100px;
   border-style: double;
   border-color: green;
   padding: 10px;
-  letter-spacing: 5px;
   text-align: center;
   display: inline-block;
   position: relative;
-  left: 26%;
+  left: 25%;
   letter-spacing: 60px;
 }
+
 
 .borda1{
   border-style: dotted;
