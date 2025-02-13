@@ -4,12 +4,25 @@ body{
 
 }
 
-img{
-  width: 100px;
-  height: 100px;
-  position: absolute;
+button{
+  background-color: lightgreen;
+  padding: 0px;
+  font-size: 44px;
+  color: red;
+  text-shadow: 7px 7px 0 green;
+  letter-spacing: 3px;
+  width: 207px;
+  height: 207px;
+  position: relative;
+  transform: rotate(0deg);
   left: 5%;
-  top: 10px;
+  top: 12px;
+  border-radius: 100px 100px 100px 100px;
+  border-style: dashed;
+  border-style: outset;
+  border-color: seagreen;
+  cursor: pointer;
+  border-width: 5px;
 }
 
 .titulo1{
