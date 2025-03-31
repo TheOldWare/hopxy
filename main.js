@@ -1,3 +1,5 @@
+alert("Versão 1.0.0")
+
 alert("Bem-Vindo ao HOPXY!")
 alert("Criado por TheOldWare!")
 alert("Todos os jogos são verificados e seguros!")

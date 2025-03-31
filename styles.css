@@ -7,16 +7,37 @@ body{
 button{
   background-color: lightgreen;
   padding: 0px;
-  font-size: 44px;
+  font-size: 34px;
   color: red;
   text-shadow: 7px 7px 0 green;
   letter-spacing: 3px;
-  width: 207px;
-  height: 207px;
+  width: 20%;
+  height: 62px;
   position: relative;
   transform: rotate(0deg);
-  left: 5%;
+  left: 0;
   top: 12px;
+  border-radius: 100px 100px 100px 100px;
+  border-style: dashed;
+  border-style: outset;
+  border-color: seagreen;
+  cursor: pointer;
+  border-width: 5px;
+}
+
+.versao{
+  background-color: lightgreen;
+  padding: 0px;
+  font-size: 34px;
+  color: black;
+  text-shadow: 5px 5px 0 green;
+  letter-spacing: 3px;
+  width: 20%;
+  height: 100px;
+  position: relative;
+  transform: rotate(0deg);
+  left: 18%;
+  top: 65px;
   border-radius: 100px 100px 100px 100px;
   border-style: dashed;
   border-style: outset;
