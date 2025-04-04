@@ -28,21 +28,42 @@ button{
 .versao{
   background-color: lightgreen;
   padding: 0px;
-  font-size: 34px;
+  font-size: 54px;
+  text-align: center;
+  text-decoration: underline;
   color: black;
-  text-shadow: 5px 5px 0 green;
+  text-shadow: 4px 4px 0 green;
   letter-spacing: 3px;
-  width: 20%;
-  height: 100px;
+  width: 30%;
+  height: 90px;
   position: relative;
   transform: rotate(0deg);
-  left: 18%;
+  left: 33%;
   top: 65px;
   border-radius: 100px 100px 100px 100px;
   border-style: dashed;
   border-style: outset;
   border-color: seagreen;
   cursor: pointer;
+  border-width: 5px;
+  display: inline-block;
+}
+
+.sobreversao{
+  background-color: lightgreen;
+  padding: 0px;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(98, 0, 255);
+  letter-spacing: 3px;
+  position: relative;
+  top: 50px;
+  transform: rotate(0deg);
+  border-radius: 100px 100px 100px 100px;
+  border-style: dashed;
+  border-style: outset;
+  border-color: seagreen;
   border-width: 5px;
 }
 
