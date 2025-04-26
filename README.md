@@ -1,4 +1,2 @@
 # hopxy
-create by WARE
-
-# Feito por uma pessoa
+# create by WARE
