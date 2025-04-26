@@ -1,390 +1,390 @@
 body{
 
-  background-image: url('https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif');
-
-}
-
-button{
-  background-color: lightgreen;
-  padding: 0px;
-  font-size: 34px;
-  color: red;
-  text-shadow: 7px 7px 0 green;
-  letter-spacing: 3px;
-  width: 20%;
-  height: 62px;
-  position: relative;
-  transform: rotate(0deg);
-  left: 0;
-  top: 12px;
-  border-radius: 100px 100px 100px 100px;
-  border-style: dashed;
-  border-style: outset;
-  border-color: seagreen;
-  cursor: pointer;
-  border-width: 5px;
-}
-
-.versao{
-  background-color: lightgreen;
-  padding: 0px;
-  font-size: 54px;
-  text-align: center;
-  text-decoration: underline;
-  color: black;
-  text-shadow: 4px 4px 0 green;
-  letter-spacing: 3px;
-  width: 30%;
-  height: 90px;
-  position: relative;
-  transform: rotate(0deg);
-  left: 33%;
-  top: 65px;
-  border-radius: 100px 100px 100px 100px;
-  border-style: dashed;
-  border-style: outset;
-  border-color: seagreen;
-  cursor: pointer;
-  border-width: 5px;
-  display: inline-block;
-}
-
-.sobreversao{
-  background-color: lightgreen;
-  padding: 0px;
-  font-size: 24px;
-  text-align: center;
-  text-decoration: underline;
-  color: rgb(98, 0, 255);
-  letter-spacing: 3px;
-  position: relative;
-  top: 50px;
-  transform: rotate(0deg);
-  border-radius: 100px 100px 100px 100px;
-  border-style: dashed;
-  border-style: outset;
-  border-color: seagreen;
-  border-width: 5px;
-}
-
-.titulo1{
-  text-shadow: 7px 7px 0 green;
-  color:chartreuse;
-  font-size: 100px;
-  border-style: double;
-  border-color: green;
-  padding: 10px;
-  text-align: center;
-  display: inline-block;
-  position: relative;
-  left: 25%;
-  letter-spacing: 60px;
-}
-
-
-.borda1{
-  border-style: dotted;
-  border-color: green;
-}
-
-.bettlfield1942{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.gtasanandreas{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.codmw4{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.farcry1{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.farcry3{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.postal2{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.halo1{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.cod2{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.lethalcomp{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.mdk2{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.saintsrow4{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.doom64{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.doom12{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.garrysmod{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.battlefield3{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.justcause2{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.theflorest{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.undertales{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.cuphead{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.needforspeedmw{
-  font-size: 50px;
-  color: green;
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgba(30, 130, 76);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.texto1{
-  color: rgb(58, 160, 58);
-  font-size: 45px;
-}
-
-.link{
-  font-size: 40px;
-  color: red;
-}
-
-.br{
-  margin-bottom: 10%;
-}
-
-.brlink{
-  margin-bottom: 5%;
-}
-
-.canal{
-  width: 32px;
-  height: 32px;
-  position: absolute;
-  left: 94%;
-}
-
-.twitch{
-  width: 32px;
-  height: 32px;
-  position: absolute;
-  left: 94%;
-  top: 6%;
-}
-
-.tutorialfarcry3legendas{
-  font-size: 30px;
-  color: rgb(28, 3, 255);
-  background-color: #404040AB;
-  border-style:outset;
-  border-color: rgb(195, 0, 255);
-  display: inline-block;
-  padding: 5px;
-  cursor: pointer;
-}
-
-.bin02{
-  width: 500px;
-  border-style: double;
-  border-color: rgb(140, 0, 255);
-}
-
-.bin41{
-  width: 500px;
-  border-style: double;
-  border-color: rgb(140, 0, 255);
-}
-
-.bin52{
-  width: 500px;
-  border-style: double;
-  border-color: rgb(140, 0, 255);
-}
-
-.btc{
-  background-color: dimgray;
-  border-radius: 20px 20px 0px 0px;
-  border-style: dotted;
-  border-color: green;
-  border-width: 3px;
-  width: -50px;
-  height: -50px;
-}
-
-.bitcoin{
-  color: lightblue;
-  font-size: 40px;
-}
-
-.bitcoinURL{
-  color: blue;
-  font-size: 40px;
-}
+    background-image: url('https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif');
+  
+  }
+  
+  button{
+    background-color: lightgreen;
+    padding: 0px;
+    font-size: 34px;
+    color: red;
+    text-shadow: 7px 7px 0 green;
+    letter-spacing: 3px;
+    width: 20%;
+    height: 62px;
+    position: relative;
+    transform: rotate(0deg);
+    left: 0;
+    top: 12px;
+    border-radius: 100px 100px 100px 100px;
+    border-style: dashed;
+    border-style: outset;
+    border-color: seagreen;
+    cursor: pointer;
+    border-width: 5px;
+  }
+  
+  .versao{
+    background-color: lightgreen;
+    padding: 0px;
+    font-size: 54px;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    text-shadow: 4px 4px 0 green;
+    letter-spacing: 3px;
+    width: 30%;
+    height: 90px;
+    position: relative;
+    transform: rotate(0deg);
+    left: 33%;
+    top: 65px;
+    border-radius: 100px 100px 100px 100px;
+    border-style: dashed;
+    border-style: outset;
+    border-color: seagreen;
+    cursor: pointer;
+    border-width: 5px;
+    display: inline-block;
+  }
+  
+  .sobreversao{
+    background-color: lightgreen;
+    padding: 0px;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(98, 0, 255);
+    letter-spacing: 3px;
+    position: relative;
+    top: 50px;
+    transform: rotate(0deg);
+    border-radius: 100px 100px 100px 100px;
+    border-style: dashed;
+    border-style: outset;
+    border-color: seagreen;
+    border-width: 5px;
+  }
+  
+  .titulo1{
+    text-shadow: 7px 7px 0 green;
+    color:chartreuse;
+    font-size: 100px;
+    border-style: double;
+    border-color: green;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 25%;
+    letter-spacing: 60px;
+  }
+  
+  
+  .borda1{
+    border-style: dotted;
+    border-color: green;
+  }
+  
+  .bettlfield1942{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .gtasanandreas{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .codmw4{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .farcry1{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .farcry3{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .postal2{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .halo1{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .cod2{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .lethalcomp{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .mdk2{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .saintsrow4{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .doom64{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .doom12{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .garrysmod{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .battlefield3{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .justcause2{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .theflorest{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .undertales{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .cuphead{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .needforspeedmw{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .texto1{
+    color: rgb(58, 160, 58);
+    font-size: 45px;
+  }
+  
+  .link{
+    font-size: 40px;
+    color: red;
+  }
+  
+  .br{
+    margin-bottom: 10%;
+  }
+  
+  .brlink{
+    margin-bottom: 5%;
+  }
+  
+  .canal{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    left: 94%;
+  }
+  
+  .twitch{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    left: 94%;
+    top: 6%;
+  }
+  
+  .tutorialfarcry3legendas{
+    font-size: 30px;
+    color: rgb(28, 3, 255);
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgb(195, 0, 255);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .bin02{
+    width: 500px;
+    border-style: double;
+    border-color: rgb(140, 0, 255);
+  }
+  
+  .bin41{
+    width: 500px;
+    border-style: double;
+    border-color: rgb(140, 0, 255);
+  }
+  
+  .bin52{
+    width: 500px;
+    border-style: double;
+    border-color: rgb(140, 0, 255);
+  }
+  
+  .btc{
+    background-color: dimgray;
+    border-radius: 20px 20px 0px 0px;
+    border-style: dotted;
+    border-color: green;
+    border-width: 3px;
+    width: -50px;
+    height: -50px;
+  }
+  
+  .bitcoin{
+    color: lightblue;
+    font-size: 40px;
+  }
+  
+  .bitcoinURL{
+    color: blue;
+    font-size: 40px;
+  }
